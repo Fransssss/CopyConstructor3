@@ -5,7 +5,7 @@
 
 // ===============
 // user get to see and learn simple class default and copy constructor
-// note:   it is not fixed, there is an issue with skipping class object from being created if not being used
+// note:   it is not 'good', there is an issue with skipping class object from being created if not being used
 // ===============
 
 
